@@ -13,6 +13,7 @@
             int y = int.Parse(input[1]);
             int n = int.Parse(input[2]);
 
+
             for (int i = 1; i < n + 1; i++)
             {
 
